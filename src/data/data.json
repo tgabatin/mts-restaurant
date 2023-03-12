@@ -1,0 +1,17 @@
+{
+    "Header": {
+        "title": "Welcome to Restaurant X",
+        "paragraph": "Where creativity on a plate meets your palette"
+    },
+    "About": {
+        "paragraph": "We're focused on bringing you quality dishes with a passion for excellence.",
+        "Why": [
+            "What we do matters",
+            "We want to share this vision with you"
+        ],
+        "Why2": [
+            "Our customers are important to us",
+            "We hope that you can share this vision with us too"
+        ]
+    }
+}
